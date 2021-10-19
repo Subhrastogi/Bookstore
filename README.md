@@ -1,2 +1,2 @@
 # Bookstore
-Ausing tkinter to create GUI for storing books details
+Using tkinter to create GUI for storing books details
